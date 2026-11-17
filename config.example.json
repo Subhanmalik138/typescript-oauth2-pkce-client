@@ -1,0 +1,1 @@
+{"authorizationEndpoint":"https://accounts.example.com/authorize","clientId":"my-public-client","scopes":["openid","profile","email"],"tokenEndpoint":"https://accounts.example.com/token","userinfoEndpoint":"https://accounts.example.com/userinfo"}
